@@ -7,7 +7,7 @@
 * @package JCR
 * @license https://creativecommons.org/licenses/by-sa/4.0/legalcode Creative Commons 4.0 Attributioin ShareAlike
 * @author José Conde Rivero <josecond@hotmail.es>
-* @version Version 0.1.2
+* @version Version 1.0.1
 */
 // Incluimos o  arquivo que contén a clase Coche clase.php
 include "clase.php";
